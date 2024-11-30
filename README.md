@@ -1,4 +1,4 @@
-<h1 align="left">Hello Word 🌍🌍🌍🌍. <br><br>As a Front-End Developer, I specialize in creating modern, responsive, and interactive web applications and I’m passionate about technology and innovation.
+<h1 align="left">Hello Word 🌍🌍🌍🌍 <br><br>As a Front-End Developer, I specialize in creating modern, responsive, and interactive web applications and I’m passionate about technology and innovation.
 
 ###
 
