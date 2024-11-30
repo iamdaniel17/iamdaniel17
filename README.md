@@ -1,4 +1,4 @@
-<h1 align="left">Hello Word. <br><br>My name is Daniel Malta Suarez, and i love working with tecnologies. <br>Love Coffe, Love Football, and love a good drive and travel  vacation.</h1>
+<h1 align="left">Hello Word 🌍🌍🌍🌍. <br><br>As a Front-End Developer, I specialize in creating modern, responsive, and interactive web applications and I’m passionate about technology and innovation.
 
 ###
 
