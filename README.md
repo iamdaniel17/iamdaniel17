@@ -1,5 +1,11 @@
 <h1 align="left">Hello Word 🌍🌍🌍🌍 <br><br>As a Front-End Developer, I specialize in creating modern, responsive, and interactive web applications and I’m passionate about technology and innovation.
 
+## About Me  
+- ☕ ***Coffee enthusiast who codes with caffeine-powered focus.***  
+- ⚽ ***Huge football fan—teamwork and strategy inspire me both on and off the field.***  
+- 🚗 ***Love a good road trip and exploring new destinations.***  
+- 🌱 ***Constantly learning and improving my craft as a developer.***  
+
 ###
 
 <div align="center">
