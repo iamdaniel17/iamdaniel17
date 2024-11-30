@@ -1,13 +1,12 @@
 <h1 align="left">Hello Word. <br><br>My name is Daniel Malta Suarez, and i love working with tecnologies. Love Coffe. Love Football, and love a good drive and travel  vacation.</h1>
-hr
-###
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamdaniel17&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdaniel17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-her
-###
+
 
 <br clear="both">
  <h1>This is my best tecnologies: </h1>
